@@ -1,0 +1,26 @@
+<style>
+.formstyle{
+ width:250px;
+ height:390px;
+ margin:auto;
+ border:2px solid black;
+}
+
+input{
+ width:80px;
+ height:40px;
+ background-color:blue;
+ font-size:30px;
+ color:white;
+ border-bottom:1px solid black;
+
+}
+#finalanswer{
+ width:250px;
+}
+
+#clearbutton{
+ width:250px;
+}
+
+</style>
